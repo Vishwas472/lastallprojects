@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemsvave"
+        android:title="save"/>
+    <item
+        android:id="@+id/setting"
+        android:title="setting"/>
+    <item
+        android:id="@+id/serch"
+        android:title="serch"/>
+    <item
+        android:id="@+id/newgroup"
+        android:title="newgroup"/>
+    <item
+        android:id="@+id/stutus"
+        android:title="stutus"/>
+
+</menu>
